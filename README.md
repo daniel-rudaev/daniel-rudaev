@@ -85,7 +85,7 @@ Some things we've shipped:
 
 - [airtable-solutions](https://github.com/d1dx/airtable-solutions) — production-tested Airtable scripts, extension scripts, and formula builders. Have many Airtable templates too — feel free to reach out and I'll share by request.
 - [lazada-order-pdf-downloader](https://github.com/d1dx/lazada-order-pdf-downloader) — Chrome extension for bulk e-commerce PDF export with date and status filtering
-- [Cleander](https://cleander.base44.com) — a tool built on Base44
+- [Cleander](https://cleander.base44.app) — a tool built on Base44
 
 ---
 
@@ -97,4 +97,4 @@ Some things we've shipped:
 
 🇮🇱 Hebrew (native) &nbsp;·&nbsp; 🇬🇧 English (fluent) &nbsp;·&nbsp; 🇷🇺 Russian (business) &nbsp;·&nbsp; 🇦🇪 Arabic (personal) &nbsp;·&nbsp; 🇹🇭 Thai (personal) &nbsp;·&nbsp; 🇪🇸 Spanish (basic)
 
-Father of Gin 🐕 and an ever-growing fleet of AI agents.
+Daily runner · daily meditator · occasional DJ for the love of it · father of Gin 🐕 and an ever-growing fleet of AI agents.
