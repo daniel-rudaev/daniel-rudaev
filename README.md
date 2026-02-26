@@ -12,7 +12,7 @@ Originally from Israel — working across Europe, the Gulf, and Southeast Asia. 
 - **AI agents & intelligent automation** — autonomous workflows, multi-agent pipelines, and human-in-the-loop systems using Make.com, n8n, and Claude. Built for production, not demos.
 - **Compliance & governance** — privacy-by-design architecture for businesses navigating Israel Amendment 13, UAE PDPL, and GDPR. Lock-in-free, audit-ready, from day one.
 - **Leadership & mentorship** — 1:1 and group coaching for non-technical founders and operators becoming data-literate leaders of cross-cultural teams
-- **Custom systems** — Bubble apps · WAHA · Chatwoot · Coolify self-hosted infrastructure · AWS & GCP Serverless · custom code when no-code isn't enough
+- **Custom systems** — Bubble apps · WhatsApp · Telegram · Chatwoot · Coolify self-hosted infrastructure · AWS & GCP Serverless · custom code when no-code isn't enough
 
 ---
 
@@ -48,7 +48,8 @@ Originally from Israel — working across Europe, the Gulf, and Southeast Asia. 
 <tr>
 <td><b>Messaging & Support</b></td>
 <td>
-<img src="https://img.shields.io/badge/WAHA-25D366?style=flat&logoColor=white" alt="WAHA" />
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
 <img src="https://img.shields.io/badge/Chatwoot-1F93FF?style=flat&logoColor=white" alt="Chatwoot" />
 <img src="https://img.shields.io/badge/Respond.io-0066FF?style=flat&logoColor=white" alt="Respond.io" />
 <img src="https://img.shields.io/badge/Freshdesk-25C16F?style=flat&logoColor=white" alt="Freshdesk" />
