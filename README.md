@@ -12,7 +12,7 @@ Originally from Israel — working across Europe, the Gulf, and Southeast Asia. 
 - **AI agents & intelligent automation** — autonomous workflows, multi-agent pipelines, and human-in-the-loop systems using Make.com, n8n, and Claude. Built for production, not demos.
 - **Compliance & governance** — privacy-by-design architecture for businesses navigating Israel Amendment 13, UAE PDPL, and GDPR. Lock-in-free, audit-ready, from day one.
 - **Leadership & mentorship** — 1:1 and group coaching for non-technical founders and operators becoming data-literate leaders of cross-cultural teams
-- **Custom systems** — Bubble apps, WAHA · Chatwoot · Respond.io deployments, Coolify self-hosted infrastructure, AWS Serverless, and custom code when no-code isn't enough
+- **Custom systems** — Bubble apps · WAHA · Chatwoot · Coolify self-hosted infrastructure · AWS & GCP Serverless · custom code when no-code isn't enough
 
 ---
 
