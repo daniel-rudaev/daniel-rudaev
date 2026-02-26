@@ -50,10 +50,10 @@ Originally from Israel — working across Europe, the Gulf, and Southeast Asia. 
 <td>
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+<img src="https://img.shields.io/badge/Line-00B900?style=flat&logo=line&logoColor=white" alt="Line" />
 <img src="https://img.shields.io/badge/Chatwoot-1F93FF?style=flat&logoColor=white" alt="Chatwoot" />
 <img src="https://img.shields.io/badge/Respond.io-0066FF?style=flat&logoColor=white" alt="Respond.io" />
 <img src="https://img.shields.io/badge/Freshdesk-25C16F?style=flat&logoColor=white" alt="Freshdesk" />
-<img src="https://img.shields.io/badge/Line-00B900?style=flat&logo=line&logoColor=white" alt="Line" />
 </td>
 </tr>
 <tr>
@@ -86,7 +86,7 @@ Some things we've shipped:
 
 - [airtable-solutions](https://github.com/d1dx/airtable-solutions) — production-tested Airtable scripts, extension scripts, and formula builders. Have many Airtable templates too — feel free to reach out and I'll share by request.
 - [lazada-order-pdf-downloader](https://github.com/d1dx/lazada-order-pdf-downloader) — Chrome extension for bulk e-commerce PDF export with date and status filtering
-- [Cleander](https://cleander.base44.app) — a tool built on Base44
+- [Cleander](https://cleander.base44.app) — swipe-style Spotify library cleaner. Keep it or kill it, one track at a time.
 
 ---
 
