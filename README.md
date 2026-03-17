@@ -86,7 +86,7 @@ Some things we've shipped:
 
 - [airtable-solutions](https://github.com/d1dx/airtable-solutions) — production-tested Airtable scripts, extension scripts, and formula builders. Have many Airtable templates too — feel free to reach out and I'll share by request.
 - [lazada-order-pdf-downloader](https://github.com/d1dx/lazada-order-pdf-downloader) — Chrome extension for bulk e-commerce PDF export with date and status filtering
-- [Cleander](https://cleander.base44.app) — swipe-style Spotify library cleaner. Keep it or kill it, one track at a time.
+- [Cleander](https://daniel-rudaev.github.io/cleander) — swipe-style Spotify library cleaner. Keep it or kill it, one track at a time.
 
 ---
 
