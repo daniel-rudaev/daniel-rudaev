@@ -84,7 +84,10 @@ Originally from Israel — working across Europe, the Gulf, and Southeast Asia. 
 
 Some things we've shipped:
 
-- [airtable-solutions](https://github.com/d1dx/airtable-solutions) — production-tested Airtable scripts, extension scripts, and formula builders. Have many Airtable templates too — feel free to reach out and I'll share by request.
+- [chatgpt-helper](https://github.com/d1dx/chatgpt-helper) — Chrome extension to export, archive, and unarchive ChatGPT conversations. 6 formats, filters, bulk actions.
+- [make-mcp](https://github.com/d1dx/make-mcp) — MCP server for Make.com. Build, validate, and deploy automation scenarios with AI. 200+ modules, auto-healing blueprints.
+- [bubble-mcp](https://github.com/d1dx/bubble-mcp) — MCP server for Bubble.io apps. Forked and fixed for production use.
+- [airtable-solutions](https://github.com/d1dx/airtable-solutions) — production-tested Airtable scripts, extension scripts, and formula builders. Templates available on request.
 - [lazada-order-pdf-downloader](https://github.com/d1dx/lazada-order-pdf-downloader) — Chrome extension for bulk e-commerce PDF export with date and status filtering
 - [Cleander](https://daniel-rudaev.github.io/cleander) — swipe-style Spotify library cleaner. Keep it or kill it, one track at a time.
 
