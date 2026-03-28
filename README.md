@@ -95,7 +95,7 @@ Some things we've shipped:
 
 **Running a cross-border team and ready to build something that scales?**
 
-[![Book an appointment](https://img.shields.io/badge/Book%20an%20appointment-005490?style=for-the-badge)](https://calendar.google.com/calendar/appointments/schedules/AcZssZ0Dactxq5Wp5RrmRr_AvaYdN-y0ZcSzhCHVVVUrs-tuWzdasX4mFS1sZSz0X9oZpwzeOGX5FUXL?gv=true)
+[![Book an appointment](https://img.shields.io/badge/Book%20an%20appointment-005490?style=for-the-badge)](link.d1dx.com/book-gh)
 [![Website](https://img.shields.io/badge/danielrudaev.com-4A4A4A?style=for-the-badge)](https://danielrudaev.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-rudaev)
 
