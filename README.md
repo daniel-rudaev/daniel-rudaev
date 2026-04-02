@@ -103,4 +103,12 @@ Some things we've shipped:
 
 Daily runner · daily meditator · occasional DJ for the love of it · father of Gin 🐕 and an ever-growing fleet of AI agents.
 
-דניאל רודייב
+---
+
+<div dir="rtl">
+
+### 🇮🇱 בעברית
+
+דניאל רודייב. מייסד D1DX — סטודיו לאוטומציה ובינה מלאכותית. בונה מערכות לעסקים — אוטומציות, סוכני AI, דשבורדים. Hands-on, לא מצגות.
+
+</div>
