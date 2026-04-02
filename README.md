@@ -102,3 +102,5 @@ Some things we've shipped:
 🇮🇱 Hebrew (native) &nbsp;·&nbsp; 🇬🇧 English (fluent) &nbsp;·&nbsp; 🇷🇺 Russian (business) &nbsp;·&nbsp; 🇦🇪 Arabic (personal) &nbsp;·&nbsp; 🇹🇭 Thai (personal) &nbsp;·&nbsp; 🇪🇸 Spanish (basic)
 
 Daily runner · daily meditator · occasional DJ for the love of it · father of Gin 🐕 and an ever-growing fleet of AI agents.
+
+דניאל רודייב
